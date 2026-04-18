@@ -23,4 +23,3 @@ A clean, minimalist task manager built with vanilla JavaScript. Add tasks, mark 
 - JavaScript (ES6)
 - localStorage API
 
-## 📸 Screenshots
